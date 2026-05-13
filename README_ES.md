@@ -7,6 +7,14 @@
 
 Un generador y programador de contenido para redes sociales potenciado por IA. Crea publicaciones optimizadas para **Twitter/X**, **LinkedIn** e **Instagram** a partir de un solo tema usando OpenAI. Incluye un dashboard en React para gestionar, editar y programar contenido.
 
+## Capturas de Pantalla
+
+### Dashboard con Contenido Generado
+![Dashboard](docs/screenshot-dashboard.png)
+
+### Documentacion API (Swagger)
+![Swagger Docs](docs/screenshot-swagger-docs.png)
+
 ## Caracteristicas
 
 - **Generacion Multi-Plataforma** — Un tema genera publicaciones adaptadas para Twitter (280 chars), LinkedIn (profesional) e Instagram (rico en hashtags)

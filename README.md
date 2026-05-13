@@ -7,6 +7,14 @@
 
 An AI-powered social media content generator and scheduler. Create optimized posts for **Twitter/X**, **LinkedIn**, and **Instagram** from a single topic using OpenAI. Includes a React dashboard for managing, editing, and scheduling content.
 
+## Screenshots
+
+### Dashboard with Generated Content
+![Dashboard](docs/screenshot-dashboard.png)
+
+### API Documentation (Swagger)
+![Swagger Docs](docs/screenshot-swagger-docs.png)
+
 ## Features
 
 - **Multi-Platform Generation** — One topic generates tailored posts for Twitter (280 chars), LinkedIn (professional), and Instagram (hashtag-rich)
