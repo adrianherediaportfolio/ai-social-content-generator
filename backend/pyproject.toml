@@ -1,6 +1,6 @@
 [project]
 name = "ai-social-content-generator"
-version = "1.0.0"
+version = "1.0.1"
 description = "AI-powered social media content generator and scheduler"
 readme = "README.md"
 license = {text = "MIT"}

@@ -34,7 +34,7 @@ app = FastAPI(
         "Generate, schedule, and manage social media content for multiple platforms "
         "using AI. Supports Twitter/X, LinkedIn, and Instagram."
     ),
-    version="1.0.0",
+    version="1.0.1",
     lifespan=lifespan,
     docs_url="/docs",
     redoc_url="/redoc",
@@ -56,4 +56,4 @@ if FRONTEND_DIST.exists():
 
 @app.get("/health")
 async def health():
-    return {"status": "healthy", "service": "ai-social-content-generator", "version": "1.0.0"}
+    return {"status": "healthy", "service": "ai-social-content-generator", "version": "1.0.1"}
