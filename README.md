@@ -3,7 +3,7 @@
 [![CI](https://github.com/adrianherediaportfolio/ai-social-content-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/adrianherediaportfolio/ai-social-content-generator/actions)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://python.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://react.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 
 An AI-powered social media content generator and scheduler. Create optimized posts for **Twitter/X**, **LinkedIn**, and **Instagram** from a single topic using OpenAI. Includes a React dashboard for managing, editing, and scheduling content.
 
@@ -132,4 +132,9 @@ npm run build  # Verifies the build succeeds
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Copyright (c) 2026 Adrian Heredia Jimenez. All rights reserved.
+
+This is proprietary software. The code is public so you can see it, but you can't use, copy, modify or distribute it without my written permission. See [LICENSE](LICENSE).
+
+Want to use it or buy a license? Write to adrian.heredia.jimenez@gmail.com.
+
