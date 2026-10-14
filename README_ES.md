@@ -3,7 +3,7 @@
 [![CI](https://github.com/adrianherediaportfolio/ai-social-content-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/adrianherediaportfolio/ai-social-content-generator/actions)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://python.org)
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://react.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Licencia](https://img.shields.io/badge/Licencia-Propietaria-red)](LICENSE)
 
 Un generador y programador de contenido para redes sociales potenciado por IA. Crea publicaciones optimizadas para **Twitter/X**, **LinkedIn** e **Instagram** a partir de un solo tema usando OpenAI. Incluye un dashboard en React para gestionar, editar y programar contenido.
 
@@ -132,4 +132,9 @@ npm run build  # Verifica que la build se completa correctamente
 
 ## Licencia
 
-MIT — ver [LICENSE](LICENSE).
+Copyright (c) 2026 Adrian Heredia Jimenez. Todos los derechos reservados.
+
+Software propietario. El código es público para que puedas verlo, pero no puedes usarlo, copiarlo, modificarlo ni distribuirlo sin mi permiso por escrito. Consulta [LICENSE](LICENSE).
+
+¿Quieres usarlo o comprar una licencia? Escríbeme a adrian.heredia.jimenez@gmail.com.
+
